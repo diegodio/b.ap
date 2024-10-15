@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 
-LINK = "https://homefinanceteste-default-rtdb.firebaseio.com/"
+#LINK = "https://homefinanceteste-default-rtdb.firebaseio.com/"
 
 
 st.title('b.AP')
