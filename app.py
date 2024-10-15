@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 LINK = "https://homefinanceteste-default-rtdb.firebaseio.com/"
 
 
-st.title('b.AP')
+st.title('b.AP', anchor=False)
 
 
 
